@@ -26,8 +26,8 @@ This is a FastAPI-based web application for user authentication and managing pos
 1. **Clone the Repository**:
    - First, clone the repository to your local machine:
      ```bash
-     git clone https://github.com/yourusername/your-repo-name.git
-     cd your-repo-name
+     git clone https://github.com/lukajojua/lucidprojecttask.git
+     cd app
      ```
 
 2. **Create a Virtual Environment** (optional but recommended):
